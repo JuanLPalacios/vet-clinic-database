@@ -2,10 +2,10 @@
 
 CREATE TABLE animals (
     id INT GENERATED ALWAYS AS IDENTITY,
-    name VARCHAR(20),
-    date_of_birth DATE,
-    escape_attempts SMALLINT,
-    neutered BIT,
-    weight_kg REAL,
+    name VARCHAR(20) NOT NULL,
+    date_of_birth DATE NOT NULL,
+    escape_attempts SMALLINT NOT NULL,
+    neutered BOOLEAN NOT NULL,
+    weight_kg FLOAT NOT NULL,
     PRIMARY KEY( id )
 );
