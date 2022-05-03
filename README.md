@@ -4,6 +4,10 @@
 
 > scripts to create the data structure for a vet clinic..
 
+## Schema Diagram
+
+[![](./diagram.png)](https://drawsql.app/microverse-41/diagrams/vet-clinic-1)
+
 
 ## Getting Started
 
@@ -31,12 +35,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
